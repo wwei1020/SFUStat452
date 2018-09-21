@@ -102,10 +102,10 @@ meansd <- function(x) {
 AutoSubset <- Auto[c(1:9,86:nrow(Auto)),1:7]
 ```
         mpg cylinders displacement horsepower weight acceleration  year
- ##min  11.00      3.00        68.00      46.00 1649.0         8.50 70.00
- ##max  46.60      8.00       455.00     230.00 4997.0        24.80 82.00
- ##mean 24.40      5.37       187.24     100.72 2936.0        15.73 77.15
- ##sd    7.87      1.65        99.68      35.71  811.3         2.69  3.11
+ min  11.00      3.00        68.00      46.00 1649.0         8.50 70.00
+ max  46.60      8.00       455.00     230.00 4997.0        24.80 82.00
+ mean 24.40      5.37       187.24     100.72 2936.0        15.73 77.15
+ sd    7.87      1.65        99.68      35.71  811.3         2.69  3.11
 
 (e)
 I made the scatterplots of horsepower vs weight, mpg vs weight, mpg vs cylinders, those graphs shown the linear trends,horsepower increase as weight increase, mpg decrease as cylinders increase,acceleration decrease as displacement increase. 
