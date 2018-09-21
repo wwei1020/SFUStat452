@@ -52,7 +52,7 @@ head(Auto)
   3rd Qu.:3615   3rd Qu.:17.0   3rd Qu.:79   3rd Qu.:2.00  
   Max.   :5140   Max.   :24.8   Max.   :82   Max.   :3.00  
                                                            
-                  name    
+     name    
   amc matador       :  5  
   ford pinto        :  5  
   toyota corolla    :  5  
