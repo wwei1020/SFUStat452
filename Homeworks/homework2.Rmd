@@ -1,6 +1,6 @@
 ---
 title: "Homework 2"
-author: "Name1, Name2 and Name3"
+author: "Wei Wei"
 date: '2018-10-05'
 output: html_document
 ---
